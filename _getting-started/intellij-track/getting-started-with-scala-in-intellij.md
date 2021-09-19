@@ -41,7 +41,7 @@ take a few minutes but subsequent projects can use the same SDK.
 
 1. On the **Project** pane on the left, right-click `src` and select
 **New** => **Scala class**. If you don't see **Scala class**, right-click on **HelloWorld** and click on **Add Framework Support...**, select **Scala** and proceed. If you see **Error: library is not specified**, you can either click download button, or select the library path manually. If you only see **Scala Worksheet** try expanding the `src` folder and its `main` subfolder, and right-click on the `scala` folder.
-1. Name the class `Hello` and change the **Kind** to `object`.
+1. Name the class `Hello` and change the **Kind** to `object`. This means, select 'Object' out of the list of five items (Class, Case Class, Object, Case Object, Trait).
 1. Change the code in the class to the following:
 
 ```
